@@ -1,0 +1,14 @@
+{
+    "name": "pita ji ke chutkule",
+    "version": "1.0",
+    "description": "A simple hindi random joke extension.",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "logo.png"
+    },
+    "icons": {
+        "128": "logo.png",
+        "16": "logo.png"
+    }
+}
